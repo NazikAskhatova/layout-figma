@@ -1,21 +1,22 @@
 body {
-    margin: 0;
+  margin: 0;
 }
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 .navbar {
   display: flex;
   justify-content: space-between;
 }
 .navbar nav {
-    display: flex;
-   flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 .navbar ul {
-
+list-style-type: none;
+display: flex;
+flex-direction: row;
 }
 .navbar li {
-    
-}
 
+}
