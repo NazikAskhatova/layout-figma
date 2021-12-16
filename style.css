@@ -13,10 +13,11 @@ body {
   flex-direction: row;
 }
 .navbar ul {
-list-style-type: none;
-display: flex;
-flex-direction: row;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 30px;
 }
 .navbar li {
-
+    padding: 10px 20px;
 }
