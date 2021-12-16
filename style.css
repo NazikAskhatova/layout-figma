@@ -18,8 +18,10 @@ body {
   flex-direction: row;
   padding: 20px 30px;
   margin-left: 130px;
-  
 }
 .navbar li {
-    padding: 20px
+  padding: 20px;
+}
+nav ul:first-child li {
+  margin-right: -30px;
 }
