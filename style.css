@@ -27,13 +27,15 @@ nav ul:first-child li {
   margin-right: -30px;
 }
 nav .btn {
-  border: 0.1px solid rgba(128, 128, 128, 0);
+  border: 0.1px solid rgba(21, 25, 80, 0);
   cursor: pointer;
-  background-color: black;
+  background: rgba(31, 39, 67, 1);
   padding: 10px 30px;
   width: -100px;
   height: 50px;
   margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 0 10 rgb(0, 1, 5);
 }
 nav .btn a {
   color: white;
