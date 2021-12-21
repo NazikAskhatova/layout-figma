@@ -5,6 +5,7 @@ body {
   box-sizing: border-box;
 }
 .navbar {
+  background: linear-gradient(105.34deg, #ff879c 1.81%, #f15d78 98.51%);
   display: flex;
   justify-content: space-between;
 }
@@ -25,6 +26,19 @@ body {
 nav ul:first-child li {
   margin-right: -30px;
 }
-.btn {
-    
+nav .btn {
+  border: 0.1px solid rgba(128, 128, 128, 0);
+  cursor: pointer;
+  background-color: black;
+  padding: 10px 30px;
+  width: -100px;
+  height: 50px;
+  margin-top: 20px;
+}
+nav .btn a {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
 }
