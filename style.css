@@ -96,3 +96,8 @@ nav .btn a {
 .col {
   flex: 1 0 0;
 }
+.nav-img {
+  position: absolute;
+  top: 123px;
+  left: 5px;
+}
