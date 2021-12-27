@@ -101,3 +101,17 @@ nav .btn a {
   top: 123px;
   left: 5px;
 }
+.wrapper {
+  background-color: rgba(31, 39, 67, 1);
+  color: white;
+  height: 100%;
+}
+.content {
+  min-height: 100%;
+}
+.footer {
+  height: 200px;
+}
+footer ul li {
+  list-style-type: none;
+}
