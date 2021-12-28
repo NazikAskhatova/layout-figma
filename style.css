@@ -102,11 +102,6 @@ nav {
 .col {
   flex: 1 0 0;
 }
-.nav-img {
-  position: absolute;
-  top: 123px;
-  left: 5px;
-}
 .wrapper {
   background-color: rgba(31, 39, 67, 1);
   color: white;
@@ -194,9 +189,17 @@ footer ul li {
   margin: 800px;
 }
 .shop-nav {
+  color: white;
   margin-left: -100px;
   margin-top: 400px;
+  margin-right: 80px;
 }
-.shop-nav h4 {
+.shop-nav h1 {
+font-size: 60px;
 font-family: 'Mukta', sans-serif;
+}
+.nav-img {
+  position: absolute;
+  top: 123px;
+  left: 5px;
 }
