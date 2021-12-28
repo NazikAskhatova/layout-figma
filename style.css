@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "Mukta", sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -146,9 +147,8 @@ footer ul li {
   text-decoration: none;
 }
 .margin-right {
-  float: right;
   margin-left: 450px;
-  margin-top: -250px;
+  margin-top: -500px;
 }
 .fabric {
   margin-top: 100px;
@@ -156,6 +156,9 @@ footer ul li {
 }
 .indent {
   margin: 100px;
+}
+.indent-2 {
+  margin: 50px;
 }
 .btn-pink {
   border: 0.1px solid rgba(21, 25, 80, 0);
@@ -257,3 +260,7 @@ footer ul li {
   text-decoration: none;
   color: white;
 }
+.f-size {
+font-size: 20px;
+}
+
