@@ -197,6 +197,7 @@ footer ul li {
 .shop-nav h1 {
 font-size: 60px;
 font-family: 'Mukta', sans-serif;
+letter-spacing: 0.03rem;
 }
 .nav-img {
   position: absolute;
@@ -213,4 +214,15 @@ font-family: 'Mukta', sans-serif;
   margin-top: 20px;
   border-radius: 5px;
   box-shadow: 0 0 0 10 rgb(0, 1, 5);
+}
+.btn-visit a {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+.underline {
+  text-decoration: none;
+
 }
