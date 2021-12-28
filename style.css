@@ -114,3 +114,14 @@ nav .btn a {
 footer ul li {
   list-style-type: none;
 }
+.btn-learn-more {
+  border: 0.1px solid rgba(21, 25, 80, 0);
+  cursor: pointer;
+  background: rgba(31, 39, 67, 1);
+  padding: 10px 30px;
+  width: -100px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 0 10 rgb(0, 1, 5);
+}
