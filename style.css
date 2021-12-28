@@ -125,3 +125,10 @@ footer ul li {
   border-radius: 5px;
   box-shadow: 0 0 0 10 rgb(0, 1, 5);
 }
+.btn-learn-more a {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
