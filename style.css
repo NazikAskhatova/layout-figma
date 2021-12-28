@@ -134,9 +134,9 @@ footer ul li {
   text-decoration: none;
 }
 .margin-right {
- float: right;
- margin-left: 450px;
- margin-top: -250px;
+  float: right;
+  margin-left: 450px;
+  margin-top: -250px;
 }
 .fabric {
   margin-top: 100px;
@@ -145,5 +145,14 @@ footer ul li {
   margin: 100px;
 }
 .btn-pink {
-  
+  border: 0.1px solid rgba(21, 25, 80, 0);
+  cursor: pointer;
+  background: rgba(243, 109, 134, 1);
+  border-radius: 5px;
+  margin: 5px;
+}
+.btn-pink a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
 }
