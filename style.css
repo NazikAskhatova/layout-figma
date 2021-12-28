@@ -166,10 +166,12 @@ footer ul li {
  justify-content: center;
 }
 .btn-not-pink {
+  border: 0.1px solid rgba(21, 25, 80, 0);
+  background: white;
   margin-left: -5px;
   border-radius: 0 5px 5px 0;
 }
 .btn-not-pink a {
-  border: 0.1px solid rgba(21, 25, 80, 0);
+  
   text-decoration: none;
 }
