@@ -49,7 +49,9 @@ nav .btn a {
   text-decoration: none;
 }
 nav {
-  min-width: 900px ;
+  min-width: 900px;
+  background-image: url(./Vector\ 3\ \(1\).png);
+  
 }
 .container {
   max-width: 980px;
@@ -239,7 +241,5 @@ font-weight: 600;
   color: black;
 }
 .fol-nav {
-  margin-left: -200px;
-  margin-top: 200px;
-  margin-right: 30px;
+  
 }
