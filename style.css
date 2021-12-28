@@ -9,10 +9,18 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.navbar .line {
+.navbar nav ul:first-child li {
+  margin-right: -30px;
   font-size: 21px;
   line-height: 32px;
   font-weight: 600;
+  color: white;
+}
+.navbar .home {
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 27px;
 }
 .navbar nav {
   display: flex;
@@ -27,12 +35,9 @@ body {
 }
 .navbar li {
   padding: 20px;
-  color: white;
+  color: rgba(255, 255, 255, 0.459);
 }
 
-nav ul:first-child li {
-  margin-right: -30px;
-}
 nav .btn {
   border: 0.1px solid rgba(21, 25, 80, 0);
   cursor: pointer;
