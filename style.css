@@ -149,10 +149,13 @@ footer ul li {
   cursor: pointer;
   background: rgba(243, 109, 134, 1);
   border-radius: 5px;
-  margin: 5px;
 }
 .btn-pink a {
   color: white;
   text-decoration: none;
-  padding: 5px;
+  padding: 5px 5px;
 }
+.center h1 {
+  text-align: center;
+}
+
