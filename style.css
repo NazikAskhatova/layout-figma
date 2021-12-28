@@ -161,3 +161,15 @@ footer ul li {
 .center-p {
   text-align: center;
 }
+.center-btn {
+ display: flex;
+ justify-content: center;
+}
+.btn-not-pink {
+  margin-left: -5px;
+  border-radius: 0 5px 5px 0;
+}
+.btn-not-pink a {
+  border: 0.1px solid rgba(21, 25, 80, 0);
+  text-decoration: none;
+}
