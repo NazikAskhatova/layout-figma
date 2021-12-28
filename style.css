@@ -198,6 +198,15 @@ footer ul li {
 font-size: 60px;
 font-family: 'Mukta', sans-serif;
 letter-spacing: 0.03rem;
+font-weight: 600;
+}
+.shop-nav h4 {
+  font-size: 18px;
+  font-weight: 500;
+}
+.shop-nav p {
+  font-size: 25px;
+  font-weight: 400;
 }
 .nav-img {
   position: absolute;
@@ -224,5 +233,8 @@ letter-spacing: 0.03rem;
 }
 .underline {
   text-decoration: none;
+  color: black;
+}
+.shop-nav i {
   color: black;
 }
