@@ -22,6 +22,10 @@ body {
 }
 .navbar li {
   padding: 20px;
+  color: white;
+}
+.tpr {
+  color: grey;
 }
 nav ul:first-child li {
   margin-right: -30px;
@@ -43,6 +47,9 @@ nav .btn a {
   font-weight: bold;
   text-align: center;
   text-decoration: none;
+}
+nav {
+  min-width: 900px ;
 }
 .container {
   max-width: 980px;
@@ -149,7 +156,7 @@ footer ul li {
   cursor: pointer;
   background: rgba(243, 109, 134, 1);
   border-radius: 5px;
-  
+
 }
 .btn-pink a {
   color: white;
@@ -180,3 +187,14 @@ footer ul li {
 .btn-margin {
   padding: 10px 10px;
 }
+.center h1 {
+  font-family: 'Mukta', sans-serif;;
+}
+.indent-nav {
+  margin: 800px;
+}
+.shop-nav {
+  margin-left: -100px;
+  margin-top: 400px;
+}
+
