@@ -238,3 +238,8 @@ font-weight: 600;
 .shop-nav i {
   color: black;
 }
+.fol-nav {
+  margin-left: -200px;
+  margin-top: 200px;
+  margin-right: 30px;
+}
