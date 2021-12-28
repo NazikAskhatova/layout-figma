@@ -9,6 +9,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.navbar .line {
+  font-size: 21px;
+  line-height: 32px;
+  font-weight: 600;
+}
 .navbar nav {
   display: flex;
   flex-direction: row;
@@ -50,7 +55,6 @@ nav .btn a {
 }
 nav {
   min-width: 900px;
-  background-image: url(./Vector\ 3\ \(1\).png);
 }
 .container {
   max-width: 980px;
@@ -241,5 +245,9 @@ font-weight: 600;
 }
 .fol-nav {
   color: white;
-  margin-top: -100px;
+  margin-top: 150px;
+}
+.fol-nav a {
+  text-decoration: none;
+  color: white;
 }
