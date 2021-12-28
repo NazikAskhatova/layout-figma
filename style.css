@@ -107,6 +107,7 @@ nav .btn a {
 }
 .content {
   min-height: 100%;
+  min-width: 100%;
 }
 .footer {
   height: 200px;
@@ -135,5 +136,8 @@ footer ul li {
 .margin-right {
  float: right;
  margin-left: 450px;
- margin-top: -100px;
+ margin-top: -250px;
+}
+.fabric {
+  margin-top: 100px;
 }
