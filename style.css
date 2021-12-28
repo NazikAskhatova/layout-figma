@@ -51,7 +51,6 @@ nav .btn a {
 nav {
   min-width: 900px;
   background-image: url(./Vector\ 3\ \(1\).png);
-  
 }
 .container {
   max-width: 980px;
@@ -194,7 +193,7 @@ footer ul li {
   color: white;
   margin-left: -200px;
   margin-top: 200px;
-  margin-right: 30px;
+  margin-right: -300px;
 }
 .shop-nav h1 {
 font-size: 60px;
@@ -241,5 +240,6 @@ font-weight: 600;
   color: black;
 }
 .fol-nav {
-  
+  color: white;
+  margin-top: -100px;
 }
