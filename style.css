@@ -149,6 +149,7 @@ footer ul li {
   cursor: pointer;
   background: rgba(243, 109, 134, 1);
   border-radius: 5px;
+  
 }
 .btn-pink a {
   color: white;
@@ -166,12 +167,13 @@ footer ul li {
  justify-content: center;
 }
 .btn-not-pink {
-  border: 0.1px solid rgba(21, 25, 80, 0);
+ border: 1px solid rgba(16, 26, 48, 0.315);
   background: white;
   margin-left: -5px;
   border-radius: 0 5px 5px 0;
 }
 .btn-not-pink a {
-  
+  color: rgb(0, 0, 0) ;
   text-decoration: none;
+  padding: 20px
 }
