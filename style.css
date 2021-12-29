@@ -41,16 +41,19 @@ body {
   line-height: 27px;
 }
 
-nav .btn {
+.btn {
   border: 0.1px solid rgba(21, 25, 80, 0);
   cursor: pointer;
   background: rgba(31, 39, 67, 1);
   padding: 10px 30px;
   height: 50px;
   margin-top: 20px;
- 
   border-radius: 5px;
   box-shadow: 0 0 0 10 rgb(0, 1, 5);
+}
+.btn-padd {
+  margin-left: 250px;
+  margin-bottom: -30px;
 }
 nav .btn a {
   color: white;
@@ -60,7 +63,7 @@ nav .btn a {
   text-decoration: none;
 }
 nav {
-  min-width: 900px;
+  min-width: 990px;
 }
 .container {
   max-width: 980px;
@@ -152,7 +155,8 @@ footer ul li {
 }
 .fabric {
   margin-top: 100px;
-  font-size: 40.96px;
+  margin-bottom: -10px;
+  font-size: 40px;
 }
 .indent {
   margin: 100px;
@@ -205,7 +209,7 @@ footer ul li {
   color: white;
   margin-left: -200px;
   margin-top: 200px;
-  margin-right: -300px;
+  margin-right: -100px;
 }
 .shop-nav h1 {
   font-size: 60px;
