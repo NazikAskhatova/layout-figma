@@ -235,9 +235,7 @@ footer ul li {
   cursor: pointer;
   background: rgba(31, 39, 67, 1);
   padding: 10px 30px;
-  width: -100px;
   height: 50px;
-  margin-top: 20px;
   border-radius: 5px;
   box-shadow: 0 0 0 10 rgb(0, 1, 5);
 }
@@ -266,5 +264,21 @@ footer ul li {
 }
 .f-size {
 font-size: 20px;
+}
+.btn-sub {
+  border: 0.1px solid rgba(21, 25, 80, 0);
+  cursor: pointer;
+  background: rgba(31, 39, 67, 1);
+  padding: 10px 30px;
+  height: 50px;
+  border-radius: 5px;
+  box-shadow: 0 0 0 10 rgb(0, 1, 5);
+}
+.btn-sub a {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
 }
 
