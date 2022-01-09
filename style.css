@@ -280,6 +280,9 @@ font-size: 20px;
   text-align: center;
   text-decoration: none;
 }
+.center-3 {
+  margin-left: 800px;
+}
 section .card-3 {
   box-shadow: 0 4px 8px 0 rgba(243, 109, 134, 1);
   transition: 0.3s;
