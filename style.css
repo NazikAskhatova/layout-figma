@@ -269,9 +269,12 @@ footer ul li {
   border: 0.1px solid rgba(21, 25, 80, 0);
   cursor: pointer;
   background: rgba(31, 39, 67, 1);
-  padding: 10px 30px;
+  padding: 15px 30px;
   height: 50px;
   border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
 }
 .btn-sub a {
   color: white;
@@ -323,11 +326,9 @@ section .container-3 {
   text-align: center;
 }
 .input-adress {
-  position: absolute;
   width: 700px;
   height: 58px;
-  left: 449px;
-  top: 4286px;
   background: #ffffff;
   border-radius: 10px;
+  border: none;
 }
