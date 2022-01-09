@@ -121,17 +121,12 @@ nav {
   color: white;
   height: 100%;
 }
-html, body, .wrapper {
-  height: 100%;
-}
 .content {
- box-sizing: border-box;
- min-height: 100%;
- padding-bottom: 90px;
+  min-height: 100%;
+  min-width: 100%;
 }
 .footer {
   height: 200px;
-  margin-top: -200px;
 }
 footer ul li {
   list-style-type: none;
@@ -297,7 +292,7 @@ section .card-3 {
   width: 1136px;
   height: 449px;
   left: 231px;
-  top: 3069px;
+  top: 2869px;
   border-radius: 40px;
 }
 section .container-3 {
@@ -308,9 +303,12 @@ section .container-3 {
   height: 414px;
   position: absolute;
   left: 271px;
-  top: 3029px;
+  top: 2829px;
   margin: 0 auto;
   background: #f36d86;
   opacity: 0.5;
   border-radius: 40px;
+}
+.indent-4 {
+  padding-bottom: 400px;
 }
