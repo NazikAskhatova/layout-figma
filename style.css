@@ -280,8 +280,8 @@ font-size: 20px;
   text-align: center;
   text-decoration: none;
 }
-.center-3 {
-  
+.center-3 h1 {
+margin: 0 auto;
 }
 
 
