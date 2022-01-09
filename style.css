@@ -263,7 +263,7 @@ footer ul li {
   color: white;
 }
 .f-size {
-font-size: 20px;
+  font-size: 20px;
 }
 .btn-sub {
   border: 0.1px solid rgba(21, 25, 80, 0);
@@ -281,17 +281,21 @@ font-size: 20px;
   text-decoration: none;
 }
 .center-3 {
-  margin-left: 800px;
+  margin: 50px;
 }
 section .card-3 {
-  box-shadow: 0 4px 8px 0 rgba(243, 109, 134, 1);
   transition: 0.3s;
   border-radius: 8px;
   background-color: rgba(243, 109, 134, 1);
+  margin: 0 auto;
+  width: 1136px;
+  left: 231px;
+  top: 4069px;
+  border-radius: 40px;
 }
 section .container-3 {
   padding: 50px 60px;
 }
-
-
-
+.card-2 {
+  
+}
