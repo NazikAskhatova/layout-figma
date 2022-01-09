@@ -312,3 +312,12 @@ section .container-3 {
 .indent-4 {
   padding-bottom: 400px;
 }
+.center-3 h1 {
+  font-size: 40.96px;
+  text-align: center;
+  color: white;
+}
+.center-3 p {
+  font-size: 20px ;
+  color: white;
+}
