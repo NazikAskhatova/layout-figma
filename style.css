@@ -346,4 +346,7 @@ section .container-3 {
 }
 .padd-in {
   padding: 10px 20px;
+  width: 50px;
+  height: 50px;
+  background: #293459;
 }
