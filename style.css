@@ -272,7 +272,6 @@ font-size: 20px;
   padding: 10px 30px;
   height: 50px;
   border-radius: 5px;
-  box-shadow: 0 0 0 10 rgb(0, 1, 5);
 }
 .btn-sub a {
   color: white;
@@ -281,6 +280,7 @@ font-size: 20px;
   text-align: center;
   text-decoration: none;
 }
+
 
 
 
