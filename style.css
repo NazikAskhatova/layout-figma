@@ -273,8 +273,8 @@ footer ul li {
   height: 50px;
   border-radius: 5px;
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+  margin: 0 auto;
+
 }
 .btn-sub a {
   color: white;
@@ -331,4 +331,6 @@ section .container-3 {
   background: #ffffff;
   border-radius: 10px;
   border: none;
+  display: flex;
+  margin: 0 auto;
 }
