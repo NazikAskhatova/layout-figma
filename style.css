@@ -318,6 +318,16 @@ section .container-3 {
   color: white;
 }
 .center-3 p {
-  font-size: 20px ;
+  font-size: 20px;
   color: white;
+  text-align: center;
+}
+.input-adress {
+  position: absolute;
+  width: 700px;
+  height: 58px;
+  left: 449px;
+  top: 4286px;
+  background: #ffffff;
+  border-radius: 10px;
 }
