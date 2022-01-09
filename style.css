@@ -297,5 +297,9 @@ section .container-3 {
   padding: 50px 60px;
 }
 .card-2 {
-  
+  height: 414px;
+  width: 1056px;
+  left: 271px;
+  top: 4029px;
+  border-radius: 40px;
 }
